@@ -1,0 +1,672 @@
+#Helm
+Class All Classes
+All Stats
+Barrier Generation
+Basic Skill Attack Speed
+Cold Resistance
+Cooldown Reduction
+Crowd Control Duration
+Dexterity
+Fire Resistance
+Healing Received
+Intelligence
+Life On Kill
+Life Regeneration while Not Damaged Recently
+Lucky Hit Chance while You Have a Barrier
+Lightning Resistance
+Maximum Life
+Poison Resistance
+Shadow Resistance
+Strength
+Total Armor
+Willpower
+Class Barbarian
+Maximum Fury
+Ranks of Death Blow
+Ranks of Rupture
+Ranks of Steel Grasp
+Class Druid
+Maximum Spirit
+Ranks of Poison Creeper
+Ranks of Ravens
+Ranks of Wolves
+Class Necromancer
+Maximum Essence
+Ranks of Decrepify
+Ranks of Iron Maiden
+Class Rogue
+Damage with Dual-Wielded Weapons
+Maximum Energy
+Ranks of Cold Imbuement
+Ranks of Poison Imbuement
+Ranks of Shadow Imbuement
+Class Sorcerer
+Lucky Hit Chance while You Have a Barrier
+Maximum Mana
+Ranks of Hydra
+Ranks of Ice Blades
+Ranks of Lightning Spear
+#END
+#Chest
+Class All Classes
+All Stats
+Barrier Generation
+Cold Resistance
+Control Impaired Duration
+Damage
+Damage Reduction
+Damage Reduction from Close Enemies
+Damage Reduction from Distant Enemies
+Dexterity
+Fire Resistance
+Intelligence
+Life on Kill
+Lightning Resistance
+Maximum Life
+Poison Resistance
+Shadow Resistance
+Strength
+Thorns
+Total Armor
+Ultimate Skill Damage
+Willpower
+Class Barbarian
+Brawling Skill Damage
+Damage Reduction from Enemies That Are Bleeding
+Damage Reduction while Fortified
+Fortify Generation
+Physical Damage
+Ranks of Challenging Shout
+Ranks of Ground Stomp
+Ranks of Iron Skin
+Ranks of Rallying Cry
+Weapon Mastery Skill Damage
+Class Druid
+Companion Skill Damage
+Damage Reduction from Enemies That Are Poisoned
+Damage Reduction while Fortified
+Damage whiile in Human Form
+Damage while Shapeshifted
+Earth Skill Damage
+Fortify Generation
+Lightning Damage
+Overpower Damage with Werebear Skills
+Physical Damage
+Poison Damage
+Ranks of Blood Howl
+Ranks of Cyclone Armor
+Ranks of Debilitating Roar
+Ranks of Earthen Bulwark
+Storm Skill Damage
+Werebear Skill Damage
+Werewolf Skill Damage
+Class Necromancer
+Blood Skill Damage
+Bone Skill Damage
+Damage for 4 Seconds After Picking Up a Blood Orb
+Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Damage Reduction while Fortified
+Darkness Skill Damage
+Fortify Generation
+Maximum Minion Life
+Physical Damage
+Shadow Damage
+Summoning Skill Damage
+Class Rogue
+Cutthroat Skill Damage
+Damage Reduction from Enemies That Are Poisoned
+Damage with Dual-Wielded Weapons
+Damage with Ranged Weapons
+Damage with Skills that Swap to New Weapons
+Imbued Skill Damage
+Marksman Skill Damage
+Physical Damage
+Poison Damage
+Shadow Damage
+Trap Skill Damage
+Class Sorcerer
+Barrier Generation
+Cold Damage
+Conjuration Skill Damage
+Damage Reduction from Enemies That Are Burning
+Fire Damage
+Frost Skill Damage
+Lightning Damage
+Pyromancy Skill Damage
+Shock Skill Damage
+#END
+#Gloves
+Class All Classes
+All Stats
+Attack Speed
+Critical Strike Chance
+Critical Strike Chance Against Injured Enemies
+Damage to Injured Enemies
+Dexterity
+Intelligence
+Chance to Restore [X]% Primary Resource
+Lucky Hit: Up to a [X]% Chance to Heal
+Lucky Hit: Up to a [X]% Chance to Slow
+Overpower Damage
+Strength
+Willpower
+Class Barbarian
+Physical Damage Over Time
+Ranks of Double Swing
+Ranks of Hammer of the Ancients
+Ranks of Rend
+Ranks of Upheaval
+Ranks of Whirlwind
+Class Druid
+Critical Strike Damage with Earth Skills
+Critical Strike Damage with Werewolf Skills
+Ranks of Landslide
+Ranks of Lightning Storm
+Ranks of Pulverize
+Ranks of Shred
+Ranks of Tornado
+Storm Skill Cooldown Reduction
+Class Necromancer
+Critical Strike Damage with Bone Skills
+Ranks of Blight
+Ranks of Blood Lance
+Ranks of Blood Surge
+Ranks of Bone Spear
+Ranks of Sever
+Shadow Damage Over Time
+Class Rogue
+Attack Speed for 4 seconds after Dodging an Attack
+Critical Strike Damage with Imbued Skills
+Ranks of Barrage
+Ranks of Flurry
+Ranks of Penetrating Shot
+Ranks of Rapid Fire
+Ranks of Twisting Blades
+Reduces the Arm Time of your Trap Skills
+Trap Skill Cooldown Reduction
+Class Sorcerer
+Fire Damage Over Time
+Lightning Critical Strike Damage
+Ranks of Chain LightningRanks of Charged Bolts
+Ranks of Fireball
+Ranks of Frozen Orb
+Ranks of Ice Shards
+Ranks of Incinerate
+#END
+#Amulet
+Class Implicit
+18.5% Resistance to All Elements
+Class All Classes
+Control Impaired Duration Reduction
+Cooldown Reduction
+Critical Strike Chance Against Injured Enemies
+Crowd Control Duration
+Damage
+Damage for 4 seconds After Killing an Elite
+Damage Reduction
+Damage Reduction from Close Enemies
+Damage Reduction from Distance Enemies
+Damage Reduction while Injured
+Dexterity
+Dodge Chance
+Healing Received
+Intelligence
+Lucky Hit Chance while You Have a Barrier
+Movement Speed
+Movement Speed for 4 Seconds After Killing an Elite
+Shrine Buff Duration
+Slow Duration Reduction
+Strength
+Thorns
+Total Armor
+Ultimate Skill Damage
+Willpower
+Class Barbarian
+Brawling Skill Damage
+Damage Reduction from Enemies That Are Bleeding
+Damage Reduction while Fortified
+Damage with Dual-Wielded Weapons
+Damage with Skills that Swap to New Weapons
+Damage with Two-Handed Bludgeoning Weapons
+Damage with Two-Handed Slashing Weapons
+Fury Cost Reduction
+Overpower Damage with Two-Handed Bludgeoning Weapons
+Ranks of All Defensive Skills
+Ranks of All Weapon Mastery Skills
+Ranks of the Brute Force Passive
+Ranks of the Counteroffensive Passive
+Ranks of the Cut to the Bone Passive
+Ranks of the Heavy Handed Passive
+Ranks of the No Mercy Passive
+Ranks of the Outburst Passive
+Ranks of the Slaying Strike Passive
+Ranks of the Tough as Nails Passive
+Ranks of the Wallop Passive
+Weapon Mastery Skill Damage
+Class Druid
+Companion Skill Damage
+Damage Reduction while Fortified
+Damage while in Human Form
+Damage while Shapeshifted
+Earth Skill Damage
+Overpower Damage with Werebear Skills
+Ranks of All Companion Skills
+Ranks of All Defensive Skills
+Ranks of All Wrath Skills
+Ranks of the Call of the Wild Passive
+Ranks of the Crushing Earth Passive
+Ranks of the Defiance Passive
+Ranks of the Envenom Passive
+Ranks of the Natural Disaster Passive
+Ranks of the Nature's Reach Passive
+Ranks of the Quickshift Passive
+Ranks of the Resonance Passive
+Ranks of the Stone Guard Passive
+Ranks of the Toxic Claws Passive
+Ranks of the Wild Impulses Passive
+Spirit Cost Reduction
+Storm Skill Cooldown Reduction
+Storm Skill Damage
+Total Armor while in Werewolf Form
+Werebear Skill Damage
+Werewolf Skill Damage
+Class Necromancer
+Blood Skill Damage
+Bone Skill Damage
+Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Damage Reduction while Fortified
+Darkness Skill Damage
+Essence Cost Reduction
+Minion Attack Speed
+Ranks of All Corpse Skills
+Ranks of All Curse Skills
+Ranks of All Macabre Skills
+Ranks of the Amplify Damage Passive
+Ranks of the Coalesced Blood Passive
+Ranks of the Compound Fracture Passive
+Ranks of the Death's Reach Passive
+Ranks of the Evulsion Passive
+Ranks of the Fueled by Death Passive
+Ranks of the Gloom Passive
+Ranks of the Hellbent Commander Passive
+Ranks of the Imperfectly Balanced Passive
+Ranks of the Terror Passive
+Ranks of the Tides of Blood Passive
+Summoning Skill Damage
+Class Rogue
+Attack Speed for 4 seconds after Dodging an Attack
+Cutthroat Skill Damage
+Damage Reduction from Enemies That Are Poisoned
+Damage with Dual-Wielded Weapons
+Damage with Ranged Weapons
+Energy Cost Reduction
+Imbued Skill Damage
+Imbuement Skill Cooldown Reduction
+Marksman Skill Damage
+Rank of All Agility Skills
+Rank of All Imbuement Skills
+Ranks of All Subterfuge Skills
+Ranks of the Deadly Venom Passive
+Ranks of the Exploit Passive
+Ranks of the Frigid Finesse Passive
+Ranks of the Impetus Passive
+Ranks of the Malice Passive
+Ranks of the Weapon Mastery Passive
+Reduces the Arm Time of your Trap Skills
+Trap Skill Cooldown Reduction
+Trap Skill Damage
+Class Sorcerer
+Conjuration Skill Damage
+Frost Skill Damage
+Lucky Hit Chance while You Have a Barrier
+Mana Cost Reduction
+Pyromancy Skill Damage
+Ranks of All Conjuration Skills
+Ranks of All Defensive Skills
+Ranks of All Mastery Skills
+Ranks of the Conjuration Mastery Passive
+Ranks of the Devouring Blaze Passive
+Ranks of the Elemental Dominance Passive
+Ranks of the Endless Pyre Passive
+Ranks of the Glass Cannon Passive
+Ranks of the Hoarfrost Passive
+Ranks of the Icy Touch Passive
+Ranks of the Inner Flames Passive
+Ranks of the Permafrost Passive
+Ranks of the Shocking Impact Passive
+Shock Skill Damage
+#END
+#Rings
+Class Implicit
+25% Cold/Fire Resistance
+25% Cold/Lightning Resistance
+25% Cold/Poison Resistance
+25% Cold/Shadow Resistance
+25% Fire/Lightning Resistance
+25% Fire/Poison Resistance
+25% Fire/Shadow Resistance
+25% Lightning/Poison Resistance
+25% Lightning/Shadow Resistance
+25% Poison/Shadow Resistance
+Class All Classes
+Barrier Generation
+Critical Strike Chance
+Critical Strike Damage
+Damage Over Time
+Damage to Close Enemies
+Damage to Crowd Controlled Enemies
+Damage to Distant Enemies
+Damage to Injured Enemies
+Damage to Slowed Enemies
+Damage to Stunned Enemies
+Life Regeneration while Not Damaged Recently
+Maximum Life
+Overpower Damage
+Resource Generation
+Vulnerable Damage
+Class Barbarian
+Damage to Bleeding Enemies
+Damage while Berserking
+Fortify Generation
+Maximum Fury
+Physical Damage
+Class Druid
+Critical Strike Damage with Earth Skills
+Critical Strike Damage with Werewolf Skills
+Damage to Poisoned Enemies
+Fortify Generation
+Lightning Damage
+Maximum Spirit
+Physical Damage
+Poison Damage
+Class Necromancer
+Blood Orb Healing
+Critical Strike Damage with Bone Skills
+Damage for 4 Seconds After Picking Up a Blood Orb
+Damage to Affected by Shadow Damage Over Time Enemies
+Fortify Generation
+Golems Inherit [X]% of Your Thorns
+Maximum Essence
+Maximum Minion Life
+Physical Damage
+Shadow Damage
+Skeletal Mages Inherit [X]% of Your Thorns
+Skeletal Warriors Inherit [X]% of Your Thorns
+Class Rogue
+Cold Damage
+Critical Strike Damage with Imbued Skills
+Damage to Chilled Enemies
+Damage to Dazed Enemies
+Damage to Enemies Affected by Trap Skills
+Damage to Frozen Enemies
+Damage to Poisoned Enemies
+Imbued Skill Damage
+Maximum Energy
+Physical Damage
+Shadow Damage
+Class Sorcerer
+Cold Damage
+Cracking Energy Damage
+Damage to Burning Enemies
+Damage to Chilled Enemies
+Damage to Frozen Enemies
+Fire Damage
+Lightning Critical Strike Damage
+Lightning Damage
+Maximum Mana
+#END
+#Weapon
+Class Implicit (Non-upgraded 725 Item Power values)
+1h Axe: 28% Damage to Healthy Enemies
+1h Mace: 31.5% Overpower Damage
+1h Scythe: 206 Life on Kill
+1h Sword: 17.5% Critical Strike Damage
+2h Axe: 56% Damage to Healthy Enemies
+2h Mace: 63% Overpower Damage
+2h Scythe: 411 Life on Kill
+2h Sword: 35% Critical Strike Damage
+Bow: 40% Damage to Distant Enemies
+Crossbow: 40% Vulnerable Damage
+Dagger: 20% Damage to Close Enemies
+Polearm: 56% Damage to Injured Enemies
+Staff: 35% Damage to Crowd Controlled Enemies
+Wand: 10% Lucky Hit Chance
+Class All Classes
+All Stats
+Basic Skill Damage
+Core Skill Damage
+Critical Strike Damage
+Damage Over Time
+Damage to Close Enemies
+Damage to Crowd Controlled Enemies
+Damage to Distant Enemies
+Damage to Injured Enemies
+Damage to Slowed Enemies
+Damage to Stunned Enemies
+Lucky Hit: Up to [X] Chance to Execute Injured Non-Elites
+Mastery Skill Damage
+Overpower Damage
+Ultimate Skill Damage
+Vulnerable Damage
+Class Barbarian
+Damage to Bleeding Enemies
+Damage while Berserking
+Strength
+Class Druid
+Critical Strike Damage with Earth Skills
+Critical Strike Damage with Werewolf Skills
+Damage to Poisoned Enemies
+Lightning Critical Strike Damage
+Overpower Damage with Werebear Skills
+Willpower
+Class Necromancer
+Critical Strike Damage with Bone Skills
+Damage to Affected by Shadow Damage Over Time Enemies
+Intelligence
+Class Rogue
+Critical Strike Damage with Imbued Skills
+Damage to Chilled Enemies
+Damage to Dazed Enemies
+Damage to Enemies Affected by Trap Skills
+Damage to Frozen Enemies
+Damage to Poisoned Enemies
+Dexterity
+Class Sorcerer
+Damage to Burning Enemies
+Damage to Chilled Enemies
+Damage to Frozen Enemies
+Intelligence
+Lightning Critical Strike Damage
+#END
+#Pants
+Class Implicit
+While Injured, Your Potion Also Grants 20% Maximum Life as Barrier
+While Injured, Your Potion Also Grants 30% Movement Speed for 2 Seconds
+While Injured, Your Potion Also Restores 20% Resource
+Class All Classes
+All Stats
+Control Impaired Duration Reduction
+Damage for 4 seconds After Killing an Elite
+Damage Reduction
+Damage Reduction from Close Enemies
+Damage Reduction from Distant Enemies
+Dexterity
+Dodge Chance
+Dodge Chance Against Close Enemies
+Healing Received
+IntelligenceLife Regeneration while Not Damaged Recently
+Maximum Life
+Potion Capacity
+Potion Drop Rate
+Strength
+Thorns
+Total Armor
+Willpower
+Class Barbarian
+Berserking Duration
+Damage Reduction from Enemies That Are Bleeding
+Damage Reduction while Fortified
+Ranks of Charge
+Ranks of Kick
+Ranks of Leap
+Ranks of War Cry
+Class Druid
+Damage Reduction from Enemies that are Poisoned
+Damage Reduction while Fortified
+Ranks of Boulder
+Ranks of Hurricane
+Ranks of Rabies
+Ranks of Trample
+Total Armor while in Werebear Form
+Class Necromancer
+Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Damage Reduction while Fortified
+Ranks of Blood Mist
+Ranks of Bone Prison
+Ranks of Corpse Explosion
+Class Rogue
+Damage for 4 Seconds After Dodging an Attack
+Damage Reduction from Enemies that are Poisoned
+Imbuement Skill Cooldown
+Ranks of Concealment
+Ranks of Dark Shroud
+Ranks of Poison Trap
+Ranks of Smoke Grenade
+Class Sorcerer
+Crackling Energy Damage
+Damage Reduction from Enemies That Are Burning
+Ranks of Ball Lightning
+Ranks of Blizzard
+Ranks of Firewall
+Ranks of Meteor
+#END
+#Boots
+Class Implicit
++2 Max Evade Charges
+Attacks Reduce Evade's Cooldown by 0.8 Second
+Evade Grants +50% Movement Speed for 1 Second
+Class All Classes
+All Stats
+Cold Resistance
+Damage Reduction while Injured
+Dexterity
+Dodge Chance
+Dodge Chance Against Distant Enemies
+Dodge Change
+Fire Resistance
+Intelligence
+Lightning Resistance
+Movement Speed
+Movement Speed for 4 seconds After Killing an Elite
+Poison Resistance
+Shadow Resistance
+Shrine Buff Duration
+Slow Duration Reduction
+Strength
+Willpower
+Class Barbarian
+Berserking Duration
+Fortify Generation
+Fury Cost Reduction
+Class Druid
+Fortify Generation
+Spirit Cost Reduction
+Total Armor while in Werewolf Form
+Class Necromancer
+Essence Cost Reduction
+Fortify Generation
+Ranks of Bone Spirit
+Ranks of Corpse Tendrils
+Class Rogue
+Energy Cost Reduction
+Ranks of Caltrops
+Ranks of Dash
+Ranks of Shadow Step
+Class Sorcerer
+Crackling Energy Damage
+Mana Cost Reduction
+Ranks of Flame Shield
+Ranks of Frost Nova
+Ranks of Ice Armor
+Ranks of Teleport
+#END
+#Off-Hands
+Class Implicit
+7% Cooldown Reduction
+Class All Classes
+All Stats
+Barrier Generation
+Basic Skill Attack Speed
+Basic Skill Damage
+Cooldown Reduction
+Critical Strike Chance
+Critical Strike Chance Against Injured Enemies
+Crowd Control Duration
+Dexterity
+Healing Received
+Intelligence
+Life On Kill
+Lucky Hit: Chance to Restore [X]% Primary Resource
+Lucky Hit: Up to [X]% Chance to Slow
+Lucky Hit: Up to a [X]% Chance to Heal
+Lucky Hit Chance while You Have a Barrier
+Resource Generation
+Strength
+Willpower
+Class Druid
+Damage Reduction from Enemies That Are Poisoned
+Damage Reduction while Fortified
+Fortify Generation
+Spirit Cost Reduction
+Class Necromancer
+Blood Orb Healing
+Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Damage Reduction while Fortified
+Essence Cost Reduction
+Fortify Generation
+Maximum Minion Life
+Class Sorcerer
+Crackling Energy Damage
+Damage Reduction from Enemies That Are Burning
+Lucky Hit Chance while You Have a Barrier
+Mana Cost Reduction
+#END
+#Shield
+Class Implicit
+20% Block Chance
+60% Block Damage Reduction
+627 Thorns
+80% Main Hand Weapon Damage
+Class All Classes
+All Stats
+Basic Skill Attack Speed
+Basic Skill Damage
+Cooldown Reduction
+Critical Strike Chance
+Critical Strike Chance Against Injured Enemies
+Crowd Control Duration
+Damage Reduction
+Damage Reduction from Close Enemies
+Damage Reduction from Distant Enemies
+Dexterity
+Healing Received
+Intelligence
+Life On Kill
+Lucky Hit: Chance to Restore [X]% Primary Resource
+Lucky Hit: Up to [X]% Chance to Slow
+Lucky Hit: Up to a [X]% Chance to Heal
+Maximum Life
+Resistance to All Elements
+Resource Generation
+Strength
+Thorns
+Willpower
+Class Necromancer
+Blood Orb Healing
+Damage for 4 Seconds After Picking Up a Blood Orb
+Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Damage Reduction while Fortified
+Essence Cost Reduction
+Fortify Generation
+Maximum Minion Life
+Minion Attack Speed
