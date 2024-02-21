@@ -7,12 +7,12 @@ Currently there are only english localizations for the affixes, if you want loca
 Example for german translation for the #Helm slot:
 
 #Helm
-Class All Classes
-Alle Werte
-Barriereerzeugung
-Angriffsgeschwindigkeit
-Class Barbarian
-max. Wut
-Class Druid
-max. Geisteskraft
-#END
+<br>Class All Classes
+<br>Alle Werte
+<br>Barriereerzeugung
+<br>Angriffsgeschwindigkeit
+<br>Class Barbarian
+<br>max. Wut
+<br>Class Druid
+<br>max. Geisteskraft
+<br>#END
