@@ -1,4 +1,4 @@
-#Helm
+#Kopfschutz
 Class All Classes
 Alle Werte
 Barriereerzeugung
@@ -47,7 +47,7 @@ Ränge für Hydra
 Ränge für Eisklingen
 Ränge für Blitzspeer
 #END
-#Chest
+#Brustschutz
 Class All Classes
 Alle Werte
 Barriereerzeugung
@@ -135,7 +135,7 @@ Schaden des Typs Blitz
 Schaden für Fertigkeiten des Typs Pyromanie
 Schaden für Fertigkeiten des Typs Schock
 #END
-#Gloves
+#Handschuhe
 Class All Classes
 Alle Werte
 Angriffsgeschwindigkeit
@@ -194,7 +194,7 @@ Ränge für Gefrorene Kugel
 Ränge für Eissplitter
 Ränge für Flammentod
 #END
-#Amulet
+#Amulett
 Class Implicit
 18,5% Widerstand gegen alle Schadensarten
 Class All Classes
@@ -337,7 +337,7 @@ Ranks of the Permafrost Passive
 Ranks of the Shocking Impact Passive
 Schaden für Fertigkeiten des Typs Schock
 #END
-#Rings
+#Ring
 Class Implicit
 25% Cold/Fire Resistance
 25% Cold/Lightning Resistance
@@ -416,7 +416,7 @@ kritischer Trefferschaden des Typs Blitz
 Schaden des Typs Blitz
 Maximum Mana
 #END
-#Weapon
+#Waffe
 Class Implicit (Non-upgraded 725 Item Power values)
 1h Axe: 28% Damage to Healthy Enemies
 1h Mace: 31.5% Overpower Damage
@@ -479,7 +479,7 @@ Damage to Frozen Enemies
 Intelligenz
 kritischer Trefferschaden des Typs Blitz
 #END
-#Pants
+#Beinschutz
 Class Implicit
 While Injured, Your Potion Also Grants 20% Maximum Life as Barrier
 While Injured, Your Potion Also Grants 30% Movement Speed for 2 Seconds
@@ -542,7 +542,7 @@ Ranks of Blizzard
 Ranks of Firewall
 Ranks of Meteor
 #END
-#Boots
+#Stiefel
 Class Implicit
 +2 Max Evade Charges
 Attacks Reduce Evade's Cooldown by 0.8 Second
@@ -592,7 +592,7 @@ Ranks of Frost Nova
 Ranks of Ice Armor
 Ranks of Teleport
 #END
-#Off-Hands
+#Nebenhand
 Class Implicit
 7% Cooldown Reduction
 Class All Classes
@@ -633,7 +633,7 @@ weniger Schaden durch Gegner vom Typ Brennt
 Glückstrefferchance, wenn Ihr eine Barriere habt
 Kostenreduktion für Mana
 #END
-#Shield
+#Schild
 Class Implicit
 20% Block Chance
 60% Block Damage Reduction
