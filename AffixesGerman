@@ -633,7 +633,7 @@ weniger Schaden durch Gegner vom Typ Brennt
 Glückstrefferchance, wenn Ihr eine Barriere habt
 Kostenreduktion für Mana
 #END
-#Schield
+#Shield
 Class Implicit
 20% Block Chance
 60% Block Damage Reduction
