@@ -130,6 +130,8 @@ Poison Damage
 Shadow Damage
 Trap Skill Damage
 Class Sorcerer
+Armor
+Mana per Second
 Barrier Generation
 Cold Damage
 Conjuration Skill Damage
@@ -321,6 +323,7 @@ Reduces the Arm Time of your Trap Skills
 Trap Skill Cooldown Reduction
 Trap Skill Damage
 Class Sorcerer
+Resource Cost Reduction
 Conjuration Skill Damage
 Frost Skill Damage
 Lucky Hit Chance while You Have a Barrier
@@ -410,6 +413,8 @@ Maximum Energy
 Physical Damage
 Shadow Damage
 Class Sorcerer
+Intelligence
+Resource Cost Reduction
 Cold Damage
 Cracking Energy Damage
 Damage to Burning Enemies
@@ -506,7 +511,7 @@ Potion Capacity
 Potion Drop Rate
 Strength
 Thorns
-Total Armor
+Armor
 Willpower
 Class Barbarian
 Berserking Duration
@@ -568,7 +573,7 @@ Poison Resistance
 Shadow Resistance
 Shrine Buff Duration
 Slow Duration Reduction
-Spirit per Second
+Mana per Second
 Strength
 Willpower
 Class Barbarian
